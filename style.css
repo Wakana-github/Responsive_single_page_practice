@@ -1,8 +1,7 @@
 /* Responsive website
-    Assessment3
     created on 1/6/2023
     last edited 8/6/2023
-    created by Wakana Gushi 
+    created by Wakana.G
 */
 
 /* Reference list
@@ -66,7 +65,7 @@ img{
 
     .title {
     grid-column: 2/ 3;
-    justify-content: start; 
+    justify-content: start;
     display: flex;
     }
 
@@ -84,11 +83,11 @@ img{
 .Nav{
     grid-column:1/5;
     margin-right: 20px;
-    border:none;   
+    border:none;
 }
 .navlist{
     list-style:none;
-    display: flex; 
+    display: flex;
     justify-content: space-between;
 }
 .search-box{
@@ -114,7 +113,7 @@ img{
     .introImg{
         grid-column:1/2;
         grid-row:1/4;
-        align-self: center; 
+        align-self: center;
         max-width: 40vw;
     }
     .descTitle{
@@ -139,7 +138,7 @@ img{
     .productsImg{
         grid-row:2/3;
         align-self: center;
-        justify-self: center; 
+        justify-self: center;
         max-width: 20vw;
         grid-column:1/4;
         margin-top:10px;
@@ -148,12 +147,12 @@ img{
 .prodTitle{
     grid-row:1/2;
     align-self: start;
-    grid-column:1/4;   
+    grid-column:1/4;
 }
 
 .productsDesc{
     grid-row:3/4;
-    margin-top:20px; 
+    margin-top:20px;
 
 }
 
@@ -168,7 +167,7 @@ img{
     justify-content: center;
 }
 .printersImg{
-    align-self: center;  
+    align-self: center;
     justify-self:center;
     max-width: 20vw;
     grid-row: 2/3;
@@ -177,12 +176,12 @@ img{
 
 }
 .printersTitle{
-    
+
     grid-row: 1/2;
     grid-column: 1/2;
     justify-self:center;
     align-self: start;
- 
+
 }
 
 .printersDesc{
@@ -220,9 +219,9 @@ img{
             margin-top: 15px;
             margin-bottom: 15px;
         }
-    
+
 /* -----regislation---- */
-        
+
 
         .regulation{
             grid-column:2/3;
@@ -239,7 +238,7 @@ img{
             margin-bottom: 10px;
             margin-right:20px;
             }
-        
+
 /* ----SocialMedi icons---- */
         .socialMedia{
             grid-column:2/3;
@@ -261,7 +260,7 @@ img{
             border-radius:50%;
         }
 
-    
+
 
 }
 
@@ -310,7 +309,7 @@ img{
         .introImg, .productsImg, .printersImg{
             grid-column:1/2;
             grid-row:1/3;
-            align-self: center; 
+            align-self: center;
             max-width: 40vw;
         }
         .introTitle, .prodTitle, .printersTitle {
@@ -323,8 +322,8 @@ img{
             grid-row:2/4;
             margin-left:15px;
         }
-        
-/* -----------products------------*/ 
+
+/* -----------products------------*/
         .products{
             padding: 10px;
             margin:10px;
@@ -337,7 +336,7 @@ img{
        .productsImg {
                 grid-column:2/4;
                 grid-row:1/4;
-                align-self: center; 
+                align-self: center;
                 max-width: 40vw;
             }
          .prodTitle{
@@ -356,7 +355,7 @@ img{
     font-size:0.9em;
 }
 
-        
+
 }
 
 /******************************max-width-500px****************************************/
@@ -369,7 +368,7 @@ img{
         font-size:1em;
     }
 
-/* -----------navigation------------*/ 
+/* -----------navigation------------*/
 .navlist{
     display:flex;
     flex-direction: column;
@@ -380,7 +379,7 @@ img{
         margin-top:0.4em;
     }
 
-/* -----------main content------------*/ 
+/* -----------main content------------*/
 .intro, .products, .printers{
     padding: 5px;
     margin:10px;
@@ -392,7 +391,7 @@ img{
 .introImg, .productsImg, .printersImg{
     grid-column:1/4;
     grid-row:2/3;
-    align-self: center; 
+    align-self: center;
     justify-self:center;
     max-width: 55vw;
     margin-top:10px;
@@ -438,14 +437,14 @@ h3{
             font-size:0.8em;
         }
         .subNavList{
-            list-style:none;        
+            list-style:none;
         }
         .subNavList li{
-            margin-top: 10px; 
+            margin-top: 10px;
         }
-    
+
 /* -----regislation------ */
-        
+
 
         .regulation{
             grid-column:2/4;
@@ -463,7 +462,7 @@ h3{
             margin-bottom: 5px;
             margin-right:10px;
             }
-        
+
 /* ----SocialMedi icons---- */
         .socialMedia{
             grid-column:2/4;
@@ -483,8 +482,6 @@ h3{
             padding:5px;
             border-radius:50%;
         }
-    
+
 
 }
-
-
