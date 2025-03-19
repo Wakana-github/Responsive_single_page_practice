@@ -1,4 +1,4 @@
-You can see this by clicking [here]( https://wakana-github.github.io/Responsive_single_page_practice/).
+You can see this page by clicking [here]( https://wakana-github.github.io/Responsive_single_page_practice/).
 
 This responsive page was created using HTML and CSS for a hypothetical organization that sells 3D printers.
 This is a single page made for practice purposes.
